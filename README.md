@@ -29,6 +29,18 @@
 - WordPress.com 入門  
 https://wordpress.com/ja/support/getting-started-with-wordpress-com/
   
+- WordPress エディター（ブロックエディタ）  
+https://wordpress.com/ja/support/wordpress-editor/
+  
+- サイトエディターを使用する  
+https://wordpress.com/ja/support/site-editor/
+  
+- インターフェースを学ぶ（WordPress エディター）  
+https://wordpress.com/ja/support/wordpress-editor/learn-the-interface/
+  
+- ブロック
+https://wordpress.com/ja/support/wordpress-editor/blocks/
+  
 - 段落ブロック  
 https://wordpress.com/ja/support/wordpress-editor/blocks/paragraph-block/
   
