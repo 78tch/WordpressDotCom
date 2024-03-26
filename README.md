@@ -22,5 +22,18 @@
 - ローカルナビゲーション
 - パンくずリスト
   
+# 5. 特に見るべきヘルプ
+- 段落ブロック  
+https://wordpress.com/ja/support/wordpress-editor/blocks/paragraph-block/
+  
+- ナビゲーションブロック  
+https://wordpress.com/ja/support/wordpress-editor/blocks/navigation-block/
+  
+- グループブロック  
+https://wordpress.com/ja/support/wordpress-editor/blocks/group-block/
+  
+
+
+
   
 「Add/Update section numbers」
