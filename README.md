@@ -47,6 +47,9 @@ https://wordpress.com/ja/support/site-editor/
 - インターフェースを学ぶ（WordPress エディター）  
 https://wordpress.com/ja/support/wordpress-editor/learn-the-interface/
   
+- サイトエディターを使用してヘッダーをカスタマイズする
+https://wordpress.com/ja/support/site-editor/customize-your-header/
+  
 - メニュー
 https://wordpress.com/ja/support/menus/
   
