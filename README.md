@@ -32,7 +32,7 @@ https://wordpress.com/ja/support/wordpress-editor/blocks/navigation-block/
 - グループブロック  
 https://wordpress.com/ja/support/wordpress-editor/blocks/group-block/
   
-- テーブルブロック
+- テーブルブロック  
 https://wordpress.com/ja/support/wordpress-editor/blocks/table-block/
   
 
