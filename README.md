@@ -47,6 +47,9 @@ https://wordpress.com/ja/support/site-editor/
 - インターフェースを学ぶ（WordPress エディター）  
 https://wordpress.com/ja/support/wordpress-editor/learn-the-interface/
   
+- メニュー
+https://wordpress.com/ja/support/menus/
+  
 - ブロック
 https://wordpress.com/ja/support/wordpress-editor/blocks/
   
