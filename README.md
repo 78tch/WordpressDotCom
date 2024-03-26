@@ -26,6 +26,9 @@
 - パンくずリスト
   
 # 5. 特に見るべきヘルプ
+- WordPress.com 入門  
+https://wordpress.com/ja/support/getting-started-with-wordpress-com/
+  
 - 段落ブロック  
 https://wordpress.com/ja/support/wordpress-editor/blocks/paragraph-block/
   
